@@ -17,3 +17,4 @@ docker-compose --env-file ./.env up -d
 
 ## Prérequis
 Afin de pouvoir exécuter l'application sur votre poste, vous devez d'abord installer docker desktop 
+Ensuite, vous aurez besoin du fichier .env pour accèder aux variables d'environnement.
